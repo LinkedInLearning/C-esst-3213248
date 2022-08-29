@@ -20,6 +20,3 @@ Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linke
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/c-grundkurs-16922450
-[lil-thumbnail-url]: 
-
-	
